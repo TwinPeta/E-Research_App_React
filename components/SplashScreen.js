@@ -31,7 +31,6 @@ const SplashScreenComponent = ({ navigation }) => {
        Welcome to the E-Supervision Portal
       </Animated.Text>
       <Animated.Text style={[styles.text, { opacity: fadeAnim }]}>
-       
        Please enroll to continue
      </Animated.Text>
     </View>
